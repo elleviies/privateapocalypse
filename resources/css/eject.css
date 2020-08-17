@@ -1,0 +1,40 @@
+/* overall design */
+
+body {
+    background-color: rgb(247, 202, 248);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(46, 43, 226);
+    margin-top: 50px;
+}
+
+video {
+    width: 460px;
+    height: auto;
+}
+
+
+.video-rida-1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    
+
+}
+
+.video-rida-2 {  
+    display: flex;
+    justify-content: center;
+
+}
+
+.video-rida-3 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+    
+
