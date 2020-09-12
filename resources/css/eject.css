@@ -11,6 +11,21 @@ h1 {
     margin-top: 50px;
 }
 
+h2 {
+    text-align: center;
+}
+
+
+.next {
+    font-size: 20px;
+    color: rgb(46, 43, 226);
+}
+
+
+.next:hover {
+    color: #a7ee02;
+}
+
 video {
     width: 460px;
     height: auto;
@@ -37,4 +52,3 @@ video {
     margin-bottom: 70px;
 }
     
-
