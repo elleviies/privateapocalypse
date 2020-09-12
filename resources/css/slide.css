@@ -95,6 +95,15 @@ img {
   right: 0;
   margin-right: 20px;
   margin-bottom: 20px;
+  font-weight: bold;
+  color:black;
   
-  
+}
+
+.eject:hover {
+    color: #a7ee02;
+}
+
+.dream {
+    text-align: center;
 }
