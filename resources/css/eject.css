@@ -29,8 +29,9 @@ h2 {
 video {
     width: 460px;
     height: auto;
-}
 
+}
+/* iga rea sisene flex max ja min */
 
 .video-rida-1 {
     display: flex;
@@ -52,3 +53,6 @@ video {
     margin-bottom: 70px;
 }
     
+.item {
+    min-width: 300px;
+}
